@@ -28,10 +28,10 @@ Understand **who is churning**, **why they are leaving**, and **what actions can
 ---
 
 ## 📈 Dashboard Preview
-> _Power BI dashboard showcasing churn KPIs and insights_
 
-<!-- Replace the image path below with your actual file -->
-```html
+Power BI dashboard showcasing churn KPIs and insights
+
 <p align="center">
-  <img src="charts/dashboard_screen.png" width="800"/>
+  <img src="charts/dashboard_screen.png" width="800" alt="Power BI churn dashboard"/>
 </p>
+
