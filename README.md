@@ -33,5 +33,5 @@ Understand **who is churning**, **why they are leaving**, and **what actions can
 <!-- Replace the image path below with your actual file -->
 ```html
 <p align="center">
-  <img src="charts/churn_dashboard.png" width="800"/>
+  <img src="charts/dashboard_screen.png" width="800"/>
 </p>
