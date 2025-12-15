@@ -35,3 +35,46 @@ Power BI dashboard showcasing churn KPIs and insights
   <img src="charts/dashboard_screen.png" width="800" alt="Power BI churn dashboard"/>
 </p>
 
+## 🛠️ Tech Stack Used
+- **Python** – Pandas, Matplotlib  
+- **Power BI** – KPIs, Slicers, DAX, Interactive Visuals  
+- **Excel** – Initial data validation and checks  
+
+---
+
+## 🔎 End-to-End Workflow
+1. Data Cleaning & Preparation  
+2. Exploratory Data Analysis (EDA)  
+3. Data Visualization & KPI Creation  
+4. Business Insight Storytelling  
+5. Executive Summary  
+6. Power BI Dashboard Development  
+7. Actionable Recommendations  
+
+---
+
+## 🧩 Dashboard Features
+- Overall **Churn Rate KPI**
+- Total Customers & Revenue Metrics
+- Churn Analysis by **Contract Type**
+- Churn Analysis by **Internet Service**
+- Tenure vs Monthly Charges Comparison
+- Fully **Interactive Slicers**
+
+---
+
+## 💡 Business Recommendations
+- Improve customer onboarding during the **first 90 days**
+- Encourage **long-term contracts** through incentives
+- Review pricing strategy for **high-tier plans**
+- Investigate and improve **Fibre Optic service quality**
+
+---
+
+## 📁 Repository Contents
+- Jupyter Notebook (EDA & Analysis)
+- Power BI Dashboard (`.pbix`)
+- Dataset
+- Dashboard Images
+- Insight & Summary Report
+
